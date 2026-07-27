@@ -13,7 +13,6 @@ required_tools:
   - search_stock_news
 aliases: [情绪, 情绪周期]
 default_priority: 100
-market_regimes: [sector_hot]
 
 instructions: |
   **情绪周期策略（Sentiment Cycle Strategy）**
